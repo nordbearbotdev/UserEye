@@ -1,1 +1,1 @@
-# EyeMod
+# Discord-Moderation-Selfbot (DMSBot)
